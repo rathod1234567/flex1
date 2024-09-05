@@ -1,0 +1,37 @@
+
+*{
+    margin: 0;
+}
+.container{
+
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-content: center;
+    background-color:burlywood;
+    box-shadow: 2px 2px 2px 2px #ccee34;
+    padding:90px;
+    margin: 3px;
+
+    width: 85%;
+    border: 2px solid black;
+}
+ H2{
+    text-align: center;
+    text-decoration: underline;
+}
+.child>img{
+    border-radius: 50%;
+    width:80px;
+}
+.line{
+    
+    display: inline-block;
+    font-size: small;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    
+ 
+}
+
+   
