@@ -16,15 +16,11 @@
     width: 85%;
     border: 2px solid black;
 }
- H2{
-    text-align: center;
-    text-decoration: underline;
-}
 .child>img{
     border-radius: 50%;
     width:80px;
 }
-.line{
+.para{
     
     display: inline-block;
     font-size: small;
